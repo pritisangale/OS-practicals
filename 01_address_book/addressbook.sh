@@ -90,3 +90,4 @@ while true; do
         *) echo "Invalid choice.Please select 1-6." ;;
     esac
 done
+//sh filename.sh
