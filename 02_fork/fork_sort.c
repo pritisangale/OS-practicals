@@ -74,3 +74,5 @@ void main()
         printf("\n");
     }
 }
+//gcc filename.c 
+//./a.out
